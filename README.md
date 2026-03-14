@@ -1,10 +1,10 @@
-Intro Assignment
+Mybio Assignment
 
 This repository contains a simple JavaScript program that logs my basic information to the console.
 
 File
 
-'mybio.js' - A javaScript file that prints my name, age, and favorite programming language.
+'myBio.js' - A javaScript file that prints my name, age, and favorite programming language.
 
 ## Example Output
 
