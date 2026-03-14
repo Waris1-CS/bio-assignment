@@ -1,0 +1,8 @@
+
+const myBio = {
+  name: "Waris",
+  age: 20,
+  favoriteLanguage: "JavaScript"
+};
+
+console.log(myBio);
